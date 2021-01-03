@@ -16,6 +16,6 @@ class Paper {
     fill("white");
     //circle(pos.x,pos.y,this.radius);
     imageMode(CENTER);
-    image(this.image,pos.x,pos.y,50,50);
+    image(this.image,pos.x,pos.y,80,80);
   }
 }
